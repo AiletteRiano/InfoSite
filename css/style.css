@@ -61,3 +61,11 @@ body {
 		text-align: center;
 	}
 }
+
+.navbar {
+	background-color: #fffdf1; 
+  }
+
+  .custom-color{
+	color:#ffc107;
+  }
